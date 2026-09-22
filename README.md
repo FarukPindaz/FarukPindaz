@@ -5,11 +5,12 @@
   </picture>
 </p>
 
+<p align="center"><b>AI Workforce</b> · Yapay zekâ çalışanı</p>
+
 ## RAYNSIS
 
-İstanbul merkezli çatı şirket.
-
-İşletmeler için ölçümle başlayan otomasyon sistemleri kuruyoruz.
+Yazışma, tahsilat takibi, sevkiyat ve sabah raporu: bir çalışanın yaptığı işi günün her saati yapan sistem.
+Her kurulum aynı soruyla açılır: bu şirkette para nerede kayboluyor?
 Her kurulum aynı soruyla açılır: bu şirkette para nerede kayboluyor?
 
 ### Şirketler
