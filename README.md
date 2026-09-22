@@ -1,15 +1,35 @@
-### Faruk Pindaz
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/raynsis-yazi-beyaz.png">
+    <img src="assets/raynsis-yazi-siyah.png" alt="RAYNSIS" width="360">
+  </picture>
+</p>
 
-İşletmelere, kendi işleyişlerine göre otomasyon yazılımı kuruyorum. Hazır paket satmıyorum:
-her kurulum, o şirkette neyin para kaybettirdiğini ölçmekle başlıyor.
+## Faruk Pindaz
 
-İki şirketin darboğazı aynı olmuyor. Birinde müşteri mesajları cevapsız kalıyor,
-ötekinde stok elle sayılıyor, üçüncüsünde tahsilat takip edilmiyor.
+Kurucu, **RAYNSIS** · İstanbul
 
-**LOIRENS AI STUDIO** · e-ticaret için ürün görseli üretimi
-**BULLMENT** · premium tüp ve kapsül üretimi, bayi ağı
-**RAYNSIS Sistemi** · işletmeye özel otomasyon
+İşletmeler için ölçümle başlayan otomasyon sistemleri kuruyorum.
+Her kurulum aynı soruyla açılır: bu şirkette para nerede kayboluyor?
 
-Depoların çoğu özel: müşteri verisi taşıyorlar.
+### Şirketler
 
-İstanbul · [studio.loirens.com](https://studio.loirens.com) · farukpindaz@gmail.com
+| | |
+|---|---|
+| **RAYNSIS** | Çatı şirket. İşletmeye özel otomasyon sistemleri. |
+| **LOIRENS AI STUDIO** | E-ticaret için yapay zekâ destekli ürün görseli. [studio.loirens.com](https://studio.loirens.com) |
+| **BULLMENT** | Premium tüp ve kapsül üretimi, bayi ağı. |
+
+### Çalışma biçimi
+
+- **Önce teşhis, sonra kod.** Kurulum, işletmenin kayıp noktalarının ölçülmesiyle başlar.
+- **Kontrolden geçmeyen çıktı müşteriye gitmez.** Her kural otomatik bir kontrole bağlıdır.
+- **Müşteri verisi özel depolarda kalır.** Burada yalnız açık kaynak araçlar yayımlanır.
+
+### Açık kaynak
+
+- [turkce-metin-araclari](https://github.com/farukpindaz-max/turkce-metin-araclari) · Türkçe metinde satır bölme ve yetim kelime düzeltmesi.
+
+### İletişim
+
+[studio.loirens.com](https://studio.loirens.com) · [farukpindaz@gmail.com](mailto:farukpindaz@gmail.com)
