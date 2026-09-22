@@ -5,11 +5,11 @@
   </picture>
 </p>
 
-## Faruk Pindaz
+## RAYNSIS
 
-Kurucu, **RAYNSIS** · İstanbul
+İstanbul merkezli çatı şirket.
 
-İşletmeler için ölçümle başlayan otomasyon sistemleri kuruyorum.
+İşletmeler için ölçümle başlayan otomasyon sistemleri kuruyoruz.
 Her kurulum aynı soruyla açılır: bu şirkette para nerede kayboluyor?
 
 ### Şirketler
@@ -32,4 +32,4 @@ Her kurulum aynı soruyla açılır: bu şirkette para nerede kayboluyor?
 
 ### İletişim
 
-[studio.loirens.com](https://studio.loirens.com) · [farukpindaz@gmail.com](mailto:farukpindaz@gmail.com)
+[studio.loirens.com](https://studio.loirens.com)
