@@ -11,7 +11,6 @@
 
 Yazışma, tahsilat takibi, sevkiyat ve sabah raporu: bir çalışanın yaptığı işi günün her saati yapan sistem.
 Her kurulum aynı soruyla açılır: bu şirkette para nerede kayboluyor?
-Her kurulum aynı soruyla açılır: bu şirkette para nerede kayboluyor?
 
 ### Şirketler
 
