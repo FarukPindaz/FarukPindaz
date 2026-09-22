@@ -5,6 +5,6 @@
   </picture>
 </p>
 
-<p align="center"><b>AI Workforce</b> · Yapay zekâ çalışanı<br>Uyumaz, yalan söylemez.</p>
+<p align="center"><b>AI Workforce</b> · Yapay zekâ çalışanı<br>Uyumaz, kaynaksız konuşmaz.</p>
 
 <p align="center"><a href="https://github.com/RAYNSIS">github.com/RAYNSIS</a></p>
